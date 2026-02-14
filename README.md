@@ -18,7 +18,7 @@ Collection of useful Swift extensions for iOS development, distributed as a Coco
 ```ruby
 source 'https://github.com/binaryloader/cocoapods-specs.git'
 
-pod 'BinaryloaderExtensions'
+pod 'BinaryLoaderExtensions'
 ```
 
 ## Related Repositories

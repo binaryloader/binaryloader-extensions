@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'BinaryloaderExtensions'
+  s.name = 'BinaryLoaderExtensions'
   s.version = '1.0.2'
   s.license = { :type => 'MIT' }
   s.homepage = 'https://github.com/binaryloader/binaryloader-extensions'
@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
 
   s.source = { :git => 'https://github.com/binaryloader/binaryloader-extensions.git', :tag => s.version }
-  s.source_files = 'BinaryloaderExtensions/Module/Source/*.swift'
+  s.source_files = 'BinaryLoaderExtensions/Module/Source/*.swift'
 end
