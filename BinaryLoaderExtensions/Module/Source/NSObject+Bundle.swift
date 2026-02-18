@@ -2,7 +2,7 @@
 //  NSObject+Bundle.swift
 //  Extensions
 //
-//  Created by binaryloader on 2020/10/11.
+//  Created by BinaryLoader on 10/11/20.
 //
 
 import Foundation
